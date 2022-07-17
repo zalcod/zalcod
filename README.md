@@ -2,6 +2,8 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Zal Solmuş</h1>
+         
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zalcod&label=Views&color=blue&style=plastic&style=for-the-badge" alt="zalcod" /> </p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
