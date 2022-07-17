@@ -5,6 +5,8 @@
          
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zalcod&label=Views&color=blue&style=plastic&style=for-the-badge" alt="zalcod" /> </p>
 
+#🌐Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zalcod)
 
 # <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
