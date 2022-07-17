@@ -1,11 +1,7 @@
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/zalcod)
-[![website](./img/twitter-dark.svg)](https://twitter.com/zalcod)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/zalcod/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/zalcod/)
-<br />
-<br />
+<h1 align="center"> Hi there, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Zal Solmuş</h1>
 
 ---
 <h3 align="center">Languages and Tools:</h3>
