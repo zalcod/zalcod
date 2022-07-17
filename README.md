@@ -1,12 +1,9 @@
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/zalcod)
 [![website](./img/twitter-dark.svg)](https://twitter.com/zalcod)
-
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/zalcod)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/zalcod)
-
-
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/zalcod/)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/zalcod/)
 <br />
 <br />
 
