@@ -1,7 +1,7 @@
-<h1 align="center"> Hi there, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center"> Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /> I'm Zal Solmuş</h1>         
+         width="45" /> I'm Zal</h1>         
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
@@ -16,6 +16,9 @@
  <a href="https://medium.com/@zalcod" target=”_blank”>
   <img align="center" alt="Pramod's Medium" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
  </a> 
+ <a/>
+  href="https://dev.to/zalcod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@ozcanzaferayan" height="30" width="40" />
+</a>
 </p>
 <h3 align="center">Languages and Tools</h3>
 <p align="center"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
