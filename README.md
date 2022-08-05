@@ -16,9 +16,11 @@
  <a href="https://medium.com/@zalcod" target=”_blank”>
   <img align="center" alt="Pramod's Medium" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
  </a> 
- <a/>
-  href="https://dev.to/zalcod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@ozcanzaferayan" height="30" width="40" />
-</a>
+ 
+ <a href="https://dev.to/zalcod" target=”_blank”>
+  <img align="center" alt="Pramod's Dev.to" width="30px" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" />
+ </a> 
+
 </p>
 <h3 align="center">Languages and Tools</h3>
 <p align="center"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
