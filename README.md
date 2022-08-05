@@ -25,3 +25,7 @@
   width="40" height="40"/> </a>
   </p>
   
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zalcod&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Zal's Most Used Languges" />
+
+<br />
+<br />
