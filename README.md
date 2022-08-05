@@ -18,7 +18,7 @@
  </a> 
  
  <a href="https://dev.to/zalcod" target=”_blank”>
-  <img align="center" alt="Pramod's Dev.to" width="30px" src="[https://www.vectorlogo.zone/logos/devto/devto-icon.svg](https://www.vectorlogo.zone/logos/devto/devto-ar21.svg)" />
+  <img align="center" alt="Pramod's Dev.to" width="30px" src="https://www.vectorlogo.zone/logos/devto/devto-ar21.svg" />
  </a> 
 
 </p>
