@@ -35,7 +35,7 @@
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/> </a> 
 <a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/VdWiz__notion-1.svg" alt="notion" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/ShoGZ__visual-studio-code.svg" alt="VSCode" width="40" height="40"/> </a> 
-<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/04D3L__android-studio.svg" alt="Android Studio" width="40" height="40"/> </a> 
+<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/android-studio--v3.png" alt="Android Studio" width="40" height="40"/> </a> 
   </p>
   <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zalcod&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Zal's Most Used Languges" />
