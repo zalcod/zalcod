@@ -29,6 +29,7 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase"
   width="40" height="40"/> </a>
 <a href="https://figma.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+<a href="https://azure.microsoft.com/tr-tr/products/data-studio/#overview" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure data studio" width="40" height="40"/> </a>
   </p>
   <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zalcod&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Zal's Most Used Languges" />
