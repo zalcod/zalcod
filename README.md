@@ -33,6 +33,7 @@
 </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/> </a> 
+<a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/VdWiz__notion-1.svg" alt="notion" width="40" height="40"/> </a> 
   </p>
   <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zalcod&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Zal's Most Used Languges" />
