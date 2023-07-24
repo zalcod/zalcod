@@ -1,9 +1,11 @@
 <h1 align="center"> Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /> I'm Zal</h1>         
+         width="45" /> I'm Zal</h1>  
+<h2 align="center"> 
+         Connect with me </div> 
 <div align="center">
-  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="110px" /></h3> 
+  <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="130px" /> 
 </div>
 <p align="center">
  <a href="https://www.linkedin.com/in/zalcod/" target=”_blank”>
