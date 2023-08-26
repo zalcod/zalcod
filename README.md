@@ -4,8 +4,6 @@
          width="45" /> I'm Zal</h1>  
 <h2 align="center"> 
          Connect with me </div> 
-<div align="center">
-  <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="130px" /> 
 </div>
 <p align="center">
  <a href="https://www.linkedin.com/in/zalcod/" target=”_blank”>
