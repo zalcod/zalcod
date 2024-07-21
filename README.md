@@ -41,7 +41,7 @@
   <div align="center">
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zalcod&theme=vue&show_icons=true&hide_border=false&layout=compact" alt="Zal's Most Used Languges" />
          </p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=zalcod&theme=vue&show_icons=true&hide_border=false&count_private=true" alt="Zal's Most Used Languges" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=zalcod&repo=github-readme-stats" alt="Zal's Most Used Languges" /> 
   </p>
 <br />
 <br />
