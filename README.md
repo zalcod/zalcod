@@ -39,9 +39,8 @@
 <a href="https://www.webflow.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/webflow/webflow-icon.svg" alt="Webflow" width="40" height="40"/> </a> 
   </p>
   <div align="center">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zalcod&theme=vue&show_icons=true&hide_border=false&layout=compact" alt="Zal's Most Used Languges" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zalcod" alt="Zal's Most Used Languges" />
          </p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=zalcod&repo=github-readme-stats" alt="Zal's Most Used Languges" /> 
   </p>
 <br />
 <br />
