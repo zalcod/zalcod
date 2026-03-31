@@ -40,8 +40,8 @@
 </p>
 
 <div align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zalcod&layout=compact&theme=dark" alt="Zal's Most Used Languages" />
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=zalcod&theme=dark&show_icons=true" alt="Zal's GitHub Stats" />
+ <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zalcod&layout=compact&theme=dark" alt="Zal's Most Used Languages" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=zalcod&theme=dark&show_icons=true" alt="Zal's GitHub Stats" /> -->
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zalcod&theme=github-dark" />
 
 </div>
