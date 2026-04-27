@@ -26,17 +26,11 @@
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/> </a> 
  <a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="notion" width="40" height="40"/> </a>
- <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSCode" width="40" height="40"/> </a> 
- <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/android-studio--v3.png" alt="Android Studio" width="40" height="40"/> </a> 
+ <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSCode" width="40" height="40"/> </a>
+ <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/android-studio--v3.png" alt="Android Studio" width="40" height="40"/> </a>
  <a href="https://www.webflow.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/webflow/webflow-icon.svg" alt="Webflow" width="40" height="40"/> </a> 
  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="40" height="40"/> </a> 
  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="40" height="40"/> </a> 
-
-
- 
-
-
- 
 </p>
 
 <div align="center">
