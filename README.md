@@ -1,49 +1,65 @@
-<h1 align="center"> Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> I'm Zal</h1>
+<h1 align="center">Zal</h1>
+<h3 align="center">
+  <sub><i>Software Developer | Business Analyst</i></sub>
+</h3>
 
-<h2 align="center"> Connect with me </h2>
 <p align="center">
- <a href="https://www.linkedin.com/in/zalcod/" target="_blank">
-  <img align="center" alt="Zal's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
- </a>
-<!--  <a href="https://twitter.com/zalcod" target="_blank">
-  <img align="center" alt="Zal's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
- </a> -->
- <a href="https://medium.com/@zalcod" target="_blank">
-  <img align="center" alt="Zal's Medium" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" /> &nbsp; &nbsp;
- </a> 
- <a href="https://dev.to/zalcod" target="_blank">
-  <img align="center" alt="Zal's Dev.to" width="30px" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" />
- </a> 
+  <a href="https://www.linkedin.com/in/zalcod/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-18181B?style=flat&logo=linkedin&logoColor=A1A1AA&labelColor=18181B" alt="LinkedIn" /></a>&nbsp;<a href="https://medium.com/@zalcod" target="_blank"><img src="https://img.shields.io/badge/Medium-18181B?style=flat&logo=medium&logoColor=A1A1AA&labelColor=18181B" alt="Medium" /></a>&nbsp;<a href="https://dev.to/zalcod" target="_blank"><img src="https://img.shields.io/badge/Dev.to-18181B?style=flat&logo=devdotto&logoColor=A1A1AA&labelColor=18181B" alt="Dev.to" /></a>
 </p>
 
-<h3 align="center">Languages and Tools</h3>
-<p align="center"> 
- <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
- <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
- <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
- <a href="https://figma.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
- <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
- <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/> </a> 
- <a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="notion" width="40" height="40"/> </a>
- <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSCode" width="40" height="40"/> </a>
- <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/android-studio--v3.png" alt="Android Studio" width="40" height="40"/> </a>
- <a href="https://www.webflow.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/webflow/webflow-icon.svg" alt="Webflow" width="40" height="40"/> </a> 
- <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="40" height="40"/> </a> 
- <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="40" height="40"/> </a> 
+<br />
+
+<table align="center">
+  <tr>
+    <td align="center" width="130">
+      <img src="https://api.iconify.design/lucide/map-pin.svg?color=%23a1a1aa" width="26" /><br/>
+      <sub>TR</sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://api.iconify.design/lucide/smartphone.svg?color=%23a1a1aa" width="26" /><br/>
+      <sub>Developer</sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://api.iconify.design/lucide/sparkles.svg?color=%23a1a1aa" width="26" /><br/>
+      <sub>Always learning</sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://api.iconify.design/lucide/coffee.svg?color=%23a1a1aa" width="26" /><br/>
+      <sub>Powered by ☕</sub>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+---
+
+<h3 align="center">
+  <img src="https://api.iconify.design/lucide/layers.svg?color=%23a1a1aa" width="18" align="center" />
+  &nbsp;Tech Stack
+</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,firebase,azure&theme=dark" alt="Tech Stack" />
 </p>
 
+<br />
+
+<h3 align="center">
+  <img src="https://api.iconify.design/lucide/wrench.svg?color=%23a1a1aa" width="18" align="center" />
+  &nbsp;Tools
+</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,webflow,vscode,androidstudio,git,github,notion&theme=dark" alt="Tools" />
+</p>
+
+---
+
+<br />
+
 <div align="center">
- <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zalcod&layout=compact&theme=dark" alt="Zal's Most Used Languages" />
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=zalcod&theme=dark&show_icons=true" alt="Zal's GitHub Stats" /> -->
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=zalcod&theme=github-dark" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zalcod&theme=github-dark&hide_border=true&background=09090B&ring=A1A1AA&fire=A1A1AA&currStreakLabel=A1A1AA" alt="GitHub Streak" />
 </div>
-
-<div align="center">
- <h3>GitHub Streak</h3>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=zalcod&theme=dark" alt="Zal's GitHub Streak" />
-</div>
-
 
 <br />
